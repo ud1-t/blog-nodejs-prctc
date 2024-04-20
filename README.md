@@ -19,15 +19,7 @@ The blog website includes the following functionality:
 - **EJS:** Embedded JavaScript templating.
 - **Morgan:** HTTP request logger middleware for Node.js.
 
-## Getting Started
 
-To run this project locally, follow these steps:
-
-1. Clone this repository.
-2. Install dependencies using `npm install`.
-3. Configure MongoDB connection in `config/db.js`.
-4. Run the server using `npm start`.
-5. Open your browser and navigate to `http://localhost:3000` to access the blog website.
 
 Feel free to explore the code and customize it according to your needs!
 
